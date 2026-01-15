@@ -1,8 +1,8 @@
 ## Airline Route Profitability Analysis – Power BI
 
-![Overview](screenshots/overview.png)
-![Aircraft Performance](screenshots/aircraft_performance.png)
-![Route Profitability Map](screenshots/geographic.png)
+![Overview](overview.png)
+![Aircraft Performance](aircraft_performance.png)
+![Route Profitability Map](geographic.png)
 
 ### Summary
 This analysis evaluates route profitability across a fictional airline’s network over a 12-month operational period, covering total revenue of **AED 2.37 billion** and total profit of **AED 575.48 million**, resulting in an overall profit margin of **24.3%**.  
