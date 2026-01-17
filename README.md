@@ -71,5 +71,5 @@ The dataset was prepared in Python and represents a **fictional airline** create
 
 ---
 
-👤 **Ezgi Soylu | Aviation Analytics Enthusiast | Power BI Developer**
+👤 **Ezgi Soylu | Aviation Analytics Enthusiast**
 
